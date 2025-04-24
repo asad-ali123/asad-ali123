@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **SkillSync (Connecting Skills to Achievements)**  
-- 🌱 I’m currently learning **React Native and backend integration**  
-- 💬 Ask me about **React, Tailwind CSS, JavaScript, Angular, Redux Toolkit**  
-- 📫 How to reach me: **asad.ali@example.com** *(replace with actual email)*  
-- ⚡ Fun fact: I love building UIs that people *actually enjoy using*
+- 🔭 I’m currently working on **SkillSync (Connecting Skills to Achievements)**
+- 🌱 I’m currently learning **React Native and backend integration**
+- 💬 Ask me about **React, Tailwind CSS, JavaScript, Angular, Redux Toolkit**
+- 📫 How to reach me: **asad.ali@example.com** _(replace with actual email)_
+- ⚡ Fun fact: I love building UIs that people _actually enjoy using_
 
 ---
 
@@ -41,8 +41,8 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 📊 GitHub Stats
 
@@ -53,6 +53,12 @@
 </p>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ### 📫 Connect with Me
 
