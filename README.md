@@ -10,20 +10,16 @@
 ## 👨‍💻 **About Me**
 - 🚀 **Currently working at:** *Gutham Technologies* as an **Angular Developer**  
 - 🎯 **Building:** *SkillSync* (Connecting Skills to Achievements)  
-- 💡 **Ask me about:** **React, Tailwind CSS, JavaScript, Angular, TypeScript, Redux Toolkit**  
+- 💡 **Ask me about:** **React, Tailwind CSS, JavaScript, Angular, TypeScript, Redux Toolkit**
+- 📫 **How to reach me:** [asadcoder0@gmail.com](mailto:asadcoder0@gmail.com)  
+
 - 🎨 **Fun fact:** *I love building UIs that people actually enjoy using!*  
 
 ---
 
 ## 📩 **Connect with Me**
-<p>
-  <a href="https://www.linkedin.com/in/asad-ali-a92431259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:asadcoder0@gmail.com"  target="_blank" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/asad-ali-a92431259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asadcoder0@gmail.com) 
 
 ---
 
