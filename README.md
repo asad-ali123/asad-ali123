@@ -8,6 +8,7 @@
 ---
 
 ## 👨‍💻 **About Me**
+- 💻**Software Engineer** 
 - 🚀 **Currently working at:** *Gutham Technologies* as an **Frontend Developer**  
 - 🎯 **Building:** *SkillSync* (Connecting Skills to Achievements)  
 - 💡 **Ask me about:** **React, Tailwind CSS, JavaScript, Angular, TypeScript, Redux Toolkit**
